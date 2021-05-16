@@ -6,7 +6,6 @@ on:
       - master
     paths:
       - "packages/container/**"
-      - "container.yml"
 
 defaults:
   run:
